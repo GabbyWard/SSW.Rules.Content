@@ -25,6 +25,8 @@ index:
 - do-you-use-a-mobile-app-to-check-your-personal-payroll
 - do-you-use-auto-fetch-functions-for-invoices
 - do-you-schedule-supplier-payments
+- show-certification-award
+- show-long-service-leave-on-your-payslip
 
 ---
 
