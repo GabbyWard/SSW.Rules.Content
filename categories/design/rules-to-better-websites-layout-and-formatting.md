@@ -5,6 +5,7 @@ guid: a4ffafbb-7fc8-4395-a35e-cb6c66ee6ec3
 uri: rules-to-better-websites-layout-and-formatting
 index:
 - cta-banana-rule
+- keep-developers-away-from-design-work
 - forms-do-you-indicate-which-fields-are-required-and-validate-them
 - forms-do-you-know-when-to-use-links-and-when-to-use-buttons
 - forms-do-you-include-the-number-of-results-in-comboboxes

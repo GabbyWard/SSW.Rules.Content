@@ -10,6 +10,7 @@ index:
 - send-to-myself-emails
 - as-per-our-conversation-emails
 - number-tasks-questions
+- add-days-to-dates
 - include-names-as-headings
 - do-not-bury-your-headline
 - standard-email-types
@@ -97,6 +98,7 @@ index:
 - description-to-the-group
 - highlight-template-differences
 - format-new-lines
+- move-emails-into-folders
 
 ---
 

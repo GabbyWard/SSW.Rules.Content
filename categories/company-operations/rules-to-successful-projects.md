@@ -33,7 +33,7 @@ index:
 - do-you-know-the-best-way-of-managing-recurring-tasks
 - do-you-constantly-add-to-the-backlog
 - fix-small-web-errors
-- do-you-have-a-knowledge-base-kb
+- knowledge-base-kb
 - do-you-know-the-best-way-to-give-the-best-customer-support
 - do-you-stop-dealing-with-data-and-schema
 - do-you-have-separate-development-testing-and-production-environments
@@ -51,7 +51,7 @@ index:
 - do-you-know-you-should-always-use-a-source-control-system
 - do-you-know-what-to-look-out-for-when-signing-legal-documents
 - ask-clients-approval
-- efficiency-do-you-always-try-to-work-in-pairs-1
+- work-in-pairs
 - do-you-perform-migration-procedures-with-an-approved-release-plan
 - do-you-know-you-should-always-refer-to-rules-instead-of-explaining-it
 - do-you-reward-your-developers-for-completing-a-release-on-time-and-budget
@@ -70,7 +70,7 @@ index:
 - management-do-you-have-a-release-update-debrief-meeting-on-a-weekly-basis
 - management-do-you-know-who-has-authority
 - have-an-induction-program
-- do-you-identify-development-test-and-production-crm-web-servers-by-colors
+- identify-crm-web-servers-by-colors
 - record-a-quick-and-dirty-done-video
 - the-best-way-to-learn
 - use-the-brains-of-your-company
@@ -84,6 +84,7 @@ index:
 - do-you-know-which-environments-you-need-to-provision-when-starting-a-new-project
 - hard-tasks-first
 - poc-vs-mvp
+- support-send-links
 
 ---
 ### What is a successful project?

@@ -49,95 +49,91 @@ Here are the Sprint Goals and their status at a glance:
 
 Sprint Goals (in priority order):
 
-* Bugfixes – Done ✅
-* WDM Integration – Done ✅
-* SSO/Roles APIs – In Progress 🕑
-* Download Documents APIs  – Not Done ❌
+* {{ ✅/❌/🚧 }} {{ GOAL }} – {{ DONE? }}
+* {{ ✅/❌/🚧 }} {{ GOAL }} – {{ DONE? }}
 
 Please see below for a more detailed breakdown of the Sprint:
 
-|                    |                                       |
-| ------------------ | ------------------------------------- |
-| Sprint in Review:  | {{ SPRINT NUMBER }}                   |
-| Summary Recording: | {{ VIDEO URL }} ({{ VIDEO LENGTH }})  |
-| Sprint Duration:   | {{ NUMBER OF WEEKS }}                 |
-| Project:           | {{ PROJECT NAME }}                    |
-| Project Portal:    | {{ LINK TO PROJECT PORTAL }}          |
-| Test Environment:  | {{ LINK TO TEST ENVIRONMENT }}        |
-| Product Owner:     | {{ PRODUCT OWNER NAME }}              |
-| Attendees:         | {{ NAMES OF THE ATTENDEES }}          |
-
-Attendees: *(Optional as they may be in the to and CC)*
+|                    |                                      |
+| ------------------ | ------------------------------------ |
+| Sprint in Review:  | {{ SPRINT NUMBER }}                  |
+| Summary Recording: | {{ VIDEO URL }} ({{ VIDEO LENGTH }}) |
+| Sprint Duration:   | {{ NUMBER OF WEEKS }}                |
+| Project:           | {{ PROJECT NAME }}                   |
+| Project Portal:    | {{ LINK TO PROJECT PORTAL }}         |
+| Test Environment:  | {{ LINK TO TEST ENVIRONMENT }}       |
+| Product Owner:     | {{ PRODUCT OWNER NAME }}             |
+| Attendees:         | {{ NAMES OF THE ATTENDEES }}         |
 
 ### Sprint Review
 
-| **ID** | **Title**                           | **State** | **Effort** |
-| ------ | ----------------------------------- | --------- | ---------- |
-| 24124  | UI Improvements                     | Done      | 4          |
-| 24112  | Integrate Business Logic to MVC app | Done      | 8          |
-| 24097  | Styling                             | Committed | 16         |
+| **ID**   | **Title**       | **Assignee**   | **State**   | **Effort**   |
+| -------- | --------------- | -------------- | ----------- | ------------ |
+| {{ ID }} | {{ PBI TITLE }} | {{ ASSIGNEE }} | {{ STATE }} | {{ EFFORT }} |
+| {{ ID }} | {{ PBI TITLE }} | {{ ASSIGNEE }} | {{ STATE }} | {{ EFFORT }} |
 
 **Figure: Sprint Backlog from {{ LINK TO SPRINT BACKLOG }}**
 
-1. Sprint Burndown (a quick overview of the Sprint)
-
-   ![Figure: Sprint Burndown](burndown.JPG)
-
-1. Timesheet data - Who worked in a Sprint?
+1. Timesheet data - Who worked in the Sprint? *
 
 :::img-medium
 ![Figure: Timesheet data for a Sprint](sprint-timesheet-data.png)
 :::
 
-1. Code Coverage (hopefully tests are increasing each Sprint)
+2. Sprint Burndown - A quick overview of the Sprint
 
-   {{ CODE COVERAGE }}
+![Figure: Sprint Burndown](burndown.jpg)
 
-1. Velocity *(Optional)*
+3. Code Coverage - Hopefully tests are increasing each Sprint
 
-   {{ VELOCITY }}
+{{ CODE COVERAGE }}
 
-1. Burnup (for the release - the whole project, how are we tracking for the big picture?)
+4. Velocity *(Optional)*
 
-   ![Figure: Release Burnup](ReleaseBurnup.jpg)
+{{ VELOCITY }}
 
-1. Build Pipeline Health & Production Deployments (How many times did we deploy to Production?)
+5. Burnup - How are we tracking for the big picture? *
 
-   ![Figure: Build Pipeline Health from DevOps](thumbnail_image.png)
+![Figure: Release Burnup](release-burnup.jpg)
 
-   ![Figure: Deployments from {{ DEPLOYMENT SERVICE }}](production-deploy.png)
+6. Build Pipeline Health & Production Deployments - How many times did we deploy to Production?
 
-1. Application Health Overview Timeline (For the entire Sprint)
+![Figure: Build Pipeline Health from DevOps](thumbnail-image.png)
 
-   ![Figure: Application Health Overview Timeline](ApplicationInsights.jpg)
+![Figure: Deployments from {{ DEPLOYMENT SERVICE }}](production-deploy.png)
 
-1. Product Roadmap
+7. Application Health Overview Timeline - For the entire Sprint
 
-   {{ ROADMAP LINK }}
+![Figure: Application Health Overview Timeline](application-insights.jpg)
+
+8. Product Roadmap
+
+{{ ROADMAP LINK }}
 
 Progress:
 
 **{{ EPIC #1 }}**
 
 * Currently {{ TOTAL # OF PBIS COMPLETED }}/{{ TOTAL # OF PBIS CREATED }} PBIs completed (there will be more)
+
   * {{ # OF PBIS COMPLETED THIS SPRINT }} Completed this Sprint
   * {{ # OF PBIS CREATED THIS SPRINT }}  Newly created this Sprint
 
 **{{ EPIC #2 }}**
 
 * Currently {{ TOTAL # OF PBIS COMPLETED }}/{{ TOTAL # OF PBIS CREATED }} PBIs completed (there will be more)
+
   * {{ # OF PBIS COMPLETED THIS SPRINT }} Completed this Sprint
   * {{ # OF PBIS CREATED THIS SPRINT }}  Newly created this Sprint
 
 **{{ EPIC #3 }}**
 
 * Currently {{ TOTAL # OF PBIS COMPLETED }}/{{ TOTAL # OF PBIS CREATED }} PBIs completed (there will be more)
+
   * {{ # OF PBIS COMPLETED THIS SPRINT }} Completed this Sprint
   * {{ # OF PBIS CREATED THIS SPRINT }}  Newly created this Sprint
 
-### R&D
-
-**Did we do any experimental work?**
+9. R&D - Did we do any experimental work?
 
 {{ INSERT DETAILS of any trial/error processes, and ensure all detail is captured as per [https://ssw.com.au/rules/do-you-record-your-failures](/do-you-record-your-failures) }}
 

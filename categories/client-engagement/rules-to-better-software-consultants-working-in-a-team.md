@@ -25,6 +25,7 @@ index:
 - go-the-extra-mile
 - browser-remove-clutter
 - standards-watchdog
+- keep-developers-away-from-design-work
 - what-is-mentoring
 - mentoring-programs
 - do-you-ask-questions-where-youre-stuck
@@ -53,8 +54,9 @@ index:
 - do-you-use-source-control-and-backups
 - do-you-use-voice-recordings-when-appropriate
 - efficiency-do-you-use-two-monitors
-- do-you-use-suspend-on-your-notebook
-- efficiency-do-you-always-try-to-work-in-pairs-1
+- hand-over-responsibilities
+- collaborate-across-timezones
+- work-in-pairs
 - quality-do-you-get-your-most-experienced-colleagues-to-check-your-work
 - quality-do-you-implement-an-error-logger-that-has-notifications
 - request-a-test-please
@@ -80,6 +82,8 @@ index:
 - efficiency-do-you-always-try-to-work-in-pairs
 - gather-team-opinions
 - call-your-system-administrators-before-raising-a-ticket
-- hand-over-responsibilities
+- do-you-use-suspend-on-your-notebook
+
 ---
- 
+
+Enhance software consulting practices by exploring essential principles that focus on teamwork, communication, and professionalism. Discover key rules designed to foster collaboration and integrity among consultants.

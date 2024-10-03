@@ -81,6 +81,7 @@ index:
   - installing-3rd-party-libraries
   - package-audit-log
   - use-package-managers-appropriately
+  - best-package-manager-for-node
   - local-copies-to-resolve-race-condition
   - do-you-use-primary-constructors
   - do-you-use-collection-expressions
@@ -88,6 +89,7 @@ index:
   - use-var
   - handle-unhappy-paths
   - get-code-line-metrics
+  - single-codebase-for-multiple-domains-with-tinacm-nextjs
 ---
 
 What makes code "cleaner"? What makes the difference between readable code and very readable code?
