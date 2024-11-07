@@ -91,6 +91,15 @@ Below is a good example of how the title and description should look like on You
 ![Figure: Good example – The video contains a great title, description and thumbnail](good-example-video-title-description.png)
 :::
 
+::: greybox
+Don't let the time you spent creating the perfect video go to waste — make sure people actually watch it! For those required to view the video, send them the following task:
+
+  1. Watch the video: {{ YOUTUBE URL }}
+  2. Leave a like
+  3. Rate it out of 10
+  4. Leave a brief comment on YouTube
+:::
+
 #### ✅ Good Example of a Sprint Meeting recording
 
 Here is an example of a Sprint Meeting recording from the [Tina CMS](https://tina.io/) Team.
